@@ -1,0 +1,8 @@
+# Ubiquity pydoc command
+
+This is my first shot at a
+[Ubiquity](https://wiki.mozilla.org/Labs/Ubiquity) command.
+
+The command is [pydoc.js](pydoc.js) and it uses
+[http://docs.python.org/search.html](http://docs.python.org/search.html)
+to search for Python terms.
